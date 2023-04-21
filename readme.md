@@ -1369,7 +1369,7 @@ Response:
 [:arrow_up:SellOut API](#up)
 
 <a name="orderss"></a>
-5. `[GET][Admin] order/orders` все заказы [Вниз к запросу](#orders)
+### 5. `[GET][Admin] order/orders` все заказы [Вниз к запросу](#orders)
 
 Response:
 ```json
@@ -1678,7 +1678,7 @@ Response:
 [:arrow_up:SellOut API](#up)
 
 <a name="user_orders"></a>
-6. `[GET][User] order/user_orders/<user_id>` все заказы пользователя
+### 6. `[GET][User] order/user_orders/<user_id>` все заказы пользователя
 
 Response:
 ```json
@@ -1880,7 +1880,7 @@ Response:
 
 
 <a name="order"></a>
-7. `[GET][User] order/info/<order_id>` информация о заказе
+### 7. `[GET][User] order/info/<order_id>` информация о заказе
 
 Response:
 ```json
